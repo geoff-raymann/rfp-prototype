@@ -1,9 +1,14 @@
+# Core Streamlit app
 streamlit
-pytesseract
+
+# NLP Model
 torch
 transformers
+
+# OCR & Image Processing
+pytesseract
 Pillow
-psycopg2-binary
+
+# YAML support (optional if you use configs)
 PyYAML
-streamlit-authenticator
 

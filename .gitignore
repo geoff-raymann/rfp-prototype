@@ -54,3 +54,12 @@ node_modules/
 # PDF reports generated locally
 # ------------------------
 *.pdf
+
+# ------------------------          
+
+# Miscellaneous files
+Dockfile
+# ------------------------
+# Temporary files
+docker-compose.yml
+docker-compose.override.yml
